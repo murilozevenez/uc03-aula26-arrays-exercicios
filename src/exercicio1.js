@@ -3,5 +3,10 @@
 let listaDiversa = ['Banana', 'Maçã', 'Manga', 'Abobora', 'Goiaba'];
 console.log(listaDiversa)
 
-listaDiversa.push('Jacare', 'Barata', 'Javali', 'Macaco', 'Crocodilo', 'Escorpião')
+listaDiversa.push('Jacare')
+listaDiversa.push('i')
+listaDiversa.push('false')
+listaDiversa.push( '1.4')
+listaDiversa.push('Crocodilo')
+listaDiversa.push('Escorpião')
 console.log(listaDiversa)
